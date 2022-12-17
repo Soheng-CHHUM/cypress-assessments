@@ -7,10 +7,8 @@ Test using Cypress for FakeRESTApi.Web V1 on session Users
     `cd cypress-assessments`
     `npm install`
 #### 3. Run automate test
-    ```
-        npm run test or 
-        npx cypress open` for GUI
-     ```
+    `npm run test` or 
+    `npx cypress open` for GUI
 ### Note 
     + After the automate test you can find 
         - Screenshot in case for Negative case in screenshots directory
