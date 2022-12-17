@@ -1,0 +1,2 @@
+export const USER_WIDGET = 'div .wrapper section.block.col-12 #operations-Users-get_api_v1_Users'
+export const HEADER_USER_BLOCK = '.opblock-summary-get span.opblock-summary-path[data-path="/api/v1/Users"]'
