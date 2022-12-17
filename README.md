@@ -11,6 +11,6 @@ Test using Cypress for FakeRESTApi.Web V1 on session Users
     or 
     npx cypress open for GUI
 ### Note 
-    + After the automate test you can find 
+    After the automate test you can find 
         - Screenshot in case for Negative case in screenshots directory
         - Video for each test cases in videos directory 
