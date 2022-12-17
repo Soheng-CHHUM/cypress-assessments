@@ -1,0 +1,11 @@
+{
+    "SITE_URL" : "https://fakerestapi.azurewebsites.net/index.html",
+    "title": "FakeRESTApi.Web V1 v1 OAS3",
+    "headerText": "Activities",
+    "length": 10,
+    "userExpected": {
+        "id": 1,
+        "userName": "User 1",
+        "password": "Password1"
+    }
+}
