@@ -1,7 +1,7 @@
 import expected from '../fixtures/expectedResults.json'
 const ID = 1;
-const USER_WIDGET = 'div .wrapper section.block.col-12 #operations-Users-get_api_v1_Users'
-const HEADER_USER_BLOCK = '.opblock-summary-get span.opblock-summary-path[data-path="/api/v1/Users"]'
+export const USER_WIDGET = 'div .wrapper section.block.col-12 #operations-Users-get_api_v1_Users'
+export const HEADER_USER_BLOCK = '.opblock-summary-get span.opblock-summary-path[data-path="/api/v1/Users"]'
 
 describe('GET username & password API', () => {
     it('should return username & password from API by interact with button', () => {
