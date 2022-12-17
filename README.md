@@ -1,4 +1,15 @@
-## Running the tests
+# Cypress-assessments
+Test using Cypress for FakeRESTApi.Web V1 on session Users
+# How to run the tests
 1. Clone the repository
-2. run `npm install` to install all dependencies
-3. run `npm run test` to run the tests or you can run `npx cypress open`
+    `git clone https://github.com/Soheng-CHHUM/cypress-assessments.git`
+2. Install all dependencies 
+    `cd cypress-assessments`
+    `npm install`
+3. Run automate test
+    `npm run test` or
+    `npx cypress open` for GUI
+### Note 
+    + After the automate test you can find 
+        - Screenshot in case for Negative case in screenshots directory
+        - Video for each test cases in videos directory 

@@ -13,7 +13,7 @@ describe('GET username & password API', () => {
         cy.get(`${USER_WIDGET} div.no-margin button.opblock-control__btn`).click()
 
         cy.request('GET', `/Users`).then((response) => {
-            expect(response.body.length).to.deep.equal(expected.length+1);
+            expect(response.body.length).to.deep.equal(expected.length);
         });
 
         cy.request('GET', `/Users/${ID}`).then((response) => {
