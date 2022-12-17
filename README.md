@@ -2,7 +2,7 @@
 Test using Cypress for FakeRESTApi.Web V1 on session Users
 # How to run the tests
 #### 1. Clone the repository
-    `git clone https://github.com/Soheng-CHHUM/cypress-assessments.git`
+    git clone https://github.com/Soheng-CHHUM/cypress-assessments.git
 #### 2. Install all dependencies 
     `cd cypress-assessments`
     `npm install`
